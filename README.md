@@ -14,7 +14,7 @@
 I build web applications end to end, from **React and Next.js** on the frontend to **Node.js, .NET and Spring Boot** on the backend. Over the past 3+ years I've shipped 4+ production projects, including an enterprise revenue platform used across 55+ woredas for a regional government finance bureau.
 
 - 🏆 Prize winner and finalist at the **6th International Olympiad on Financial Security** (Krasnoyarsk, Russia), competing against 700+ universities from 40+ countries
-- 🎓 B.Sc. in Software Engineering, Addis Ababa University (CGPA 3.70 / 4.00, graduating 2027)
+- 🎓 B.Sc. in Software Engineering, Addis Ababa University (graduating 2027)
 - 🧭 Led a 5-person team as tech lead on a job marketplace platform
 - ⚡ I pick up new technologies quickly and care about clean, maintainable code
 
