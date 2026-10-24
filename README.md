@@ -54,31 +54,7 @@ I build web applications end to end, from **React and Next.js** on the frontend 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Featured projects
 
-| Project | What it does | Built with |
-|---|---|---|
-| [**Invoice & Payment Tracker**](https://github.com/thitna8/Invoice-Processing-and-Payment) | Automates invoice processing and tracks payment status end to end for small businesses | Next.js · PostgreSQL · REST APIs |
-| [**SheConnect**](https://github.com/thitna8/sheConnect) | Connects women entrepreneurs with investors and mentors through a Shark-Tank-style model for funding and growth | React · Node.js · PostgreSQL |
-| [**HomeTweak**](https://github.com/thitna8/HomeTweak--Home-Maintenance-and-Repair-App) | Mobile marketplace linking plumbers, electricians and other home service workers directly with customers | React Native · Firebase |
-
-## Experience
-
-**Junior Software Developer · Oromia Finance Bureau** (Apr – Sep 2026)
-Built the Integrated Revenue System, a revenue management platform serving 55+ woredas (.NET, Spring Boot, React), and a Property Management System for property records across the same woredas (.NET, SQL Server).
-
-**Software Development Intern, Tech Lead · Octovate Technology** (Mar – Jun 2026)
-Led a team of 5 building TefTef, a marketplace connecting job seekers with opportunities and micro-credit access (React, Node.js).
-
-**Full Stack Intern · Brana Software Solution** (Jun – Sep 2025)
-Full-stack developer on a 10-person team building a Finance & Expense Management System.
-
-## Awards & certificates
-
-- 🏆 **Prize Winner & Finalist**, 6th International Olympiad on Financial Security
-- 💻 **HerCommerce Hackathon** participant
-- 📜 **IBM SkillsBuild**, Web Development Fundamentals
-- 🐍 **PRIME ADCODER**, Python programming course
 
 ## GitHub stats
 
