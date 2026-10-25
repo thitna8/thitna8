@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:thitnadamtew@gmail.com"><img src="https://img.shields.io/badge/Email-thitnadamtew%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/thitna8"><img src="https://img.shields.io/badge/GitHub-thitna8-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Location-Addis%20Ababa%2C%20Ethiopia-2EA44F?style=flat&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
